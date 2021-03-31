@@ -1,0 +1,14 @@
+{
+  "name": "clockproject",
+  "version": "1.0.0",
+  "description": "This a project of a clock code in native Html/CSS/JS",
+  "main": "mainPage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
